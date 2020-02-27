@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5faf32e6-2ce8-4eca-a08e-40d96b97afc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YLvHA71HAM7tpS9BSlQoIPudwG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.InchCentimeters">
+    <configuration name="BlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BlockDemo" />
+      <module name="DemoIf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ForDemo" />
+      <module name="DemoIf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GalToLitTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GalToLitTable" />
+      <module name="DemoIf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InchCentimeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.InchCentimeters" />
+      <module name="DemoIf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightMoon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.WeightMoon" />
+      <module name="DemoIf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InchCentimeters" />
+        <item itemvalue="Application.WeightMoon" />
+        <item itemvalue="Application.GalToLitTable" />
+        <item itemvalue="Application.BlockDemo" />
+        <item itemvalue="Application.ForDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5faf32e6-2ce8-4eca-a08e-40d96b97afc8" name="Default Changelist" comment="" />
+      <created>1582734599021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582734599021</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1582826878674">
+      <screen x="1280" y="78" width="1366" height="768" />
+    </state>
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582826878674" />
+    <state width="1250" height="172" key="GridCell.Tab.0.center" timestamp="1582826878674">
+      <screen x="1280" y="78" width="1366" height="768" />
+    </state>
+    <state width="1250" height="172" key="GridCell.Tab.0.center/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582826878674" />
+    <state width="1250" height="172" key="GridCell.Tab.0.left" timestamp="1582826878673">
+      <screen x="1280" y="78" width="1366" height="768" />
+    </state>
+    <state width="1250" height="172" key="GridCell.Tab.0.left/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582826878673" />
+    <state width="1250" height="172" key="GridCell.Tab.0.right" timestamp="1582826878674">
+      <screen x="1280" y="78" width="1366" height="768" />
+    </state>
+    <state width="1250" height="172" key="GridCell.Tab.0.right/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582826878674" />
+    <state x="1654" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1582808342888">
+      <screen x="1280" y="78" width="1366" height="768" />
+    </state>
+    <state x="1654" y="303" key="com.intellij.ide.util.TipDialog/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582808342888" />
+    <state x="1350" y="105" width="1296" height="741" key="new project wizard" timestamp="1582734855079">
+      <screen x="1280" y="78" width="1366" height="768" />
+    </state>
+    <state x="1350" y="105" width="1296" height="741" key="new project wizard/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582734855079" />
+  </component>
+</project>
