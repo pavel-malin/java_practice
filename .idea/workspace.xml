@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5faf32e6-2ce8-4eca-a08e-40d96b97afc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CharArithDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Hypot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Inches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CastDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DynInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/KbIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LogicalOpTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LtoD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ModDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/NestVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Prame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PromDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/RelLogsOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SCops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ScopeDome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SideEffects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Sound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StrDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/UseCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/VarInitDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +48,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.CharArithDemo">
-    <configuration name="CharArithDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CharArithDemo" />
+  <component name="RunManager" selected="Application.KbIn">
+    <configuration name="KbIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.KbIn" />
       <module name="DemoIf" />
       <extension name="coverage">
         <pattern>
@@ -46,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hypot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Hypot" />
+    <configuration name="LogicalOpTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LogicalOpTable" />
       <module name="DemoIf" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InchCentimeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.InchCentimeters" />
+    <configuration name="Prame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Prame" />
       <module name="DemoIf" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Inches" />
+    <configuration name="PromDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.PromDemo" />
       <module name="DemoIf" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeightMoon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.WeightMoon" />
+    <configuration name="UseCast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.UseCast" />
       <module name="DemoIf" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharArithDemo" />
-        <item itemvalue="Application.Hypot" />
-        <item itemvalue="Application.Inches" />
-        <item itemvalue="Application.InchCentimeters" />
-        <item itemvalue="Application.WeightMoon" />
+        <item itemvalue="Application.KbIn" />
+        <item itemvalue="Application.Prame" />
+        <item itemvalue="Application.UseCast" />
+        <item itemvalue="Application.PromDemo" />
+        <item itemvalue="Application.LogicalOpTable" />
       </list>
     </recent_temporary>
   </component>
@@ -122,29 +138,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1582833992794">
-      <screen x="1280" y="78" width="1366" height="768" />
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1582890312023">
+      <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.bottom/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582833992794" />
-    <state width="1250" height="172" key="GridCell.Tab.0.center" timestamp="1582833992793">
-      <screen x="1280" y="78" width="1366" height="768" />
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582834938898" />
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1582890312023" />
+    <state width="1250" height="172" key="GridCell.Tab.0.center" timestamp="1582890312019">
+      <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.center/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582833992793" />
-    <state width="1250" height="172" key="GridCell.Tab.0.left" timestamp="1582833992793">
-      <screen x="1280" y="78" width="1366" height="768" />
+    <state width="1250" height="172" key="GridCell.Tab.0.center/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582834938897" />
+    <state width="1250" height="172" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1582890312019" />
+    <state width="1250" height="172" key="GridCell.Tab.0.left" timestamp="1582890312017">
+      <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.left/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582833992793" />
-    <state width="1250" height="172" key="GridCell.Tab.0.right" timestamp="1582833992794">
-      <screen x="1280" y="78" width="1366" height="768" />
+    <state width="1250" height="172" key="GridCell.Tab.0.left/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582834938896" />
+    <state width="1250" height="172" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1582890312017" />
+    <state width="1250" height="172" key="GridCell.Tab.0.right" timestamp="1582890312020">
+      <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.right/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582833992794" />
-    <state x="1654" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1582808342888">
-      <screen x="1280" y="78" width="1366" height="768" />
+    <state width="1250" height="172" key="GridCell.Tab.0.right/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582834938897" />
+    <state width="1250" height="172" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1582890312020" />
+    <state x="425" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1582865834135">
+      <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="1654" y="303" key="com.intellij.ide.util.TipDialog/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582808342888" />
+    <state x="425" y="244" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1582865834135" />
     <state x="1350" y="105" width="1296" height="741" key="new project wizard" timestamp="1582734855079">
       <screen x="1280" y="78" width="1366" height="768" />
     </state>
     <state x="1350" y="105" width="1296" height="741" key="new project wizard/1280.78.1366.768/0.105.1280.919@1280.78.1366.768" timestamp="1582734855079" />
+    <state x="382" y="174" key="run.anything.popup" timestamp="1582871088902">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="382" y="174" key="run.anything.popup/70.27.1296.741@70.27.1296.741" timestamp="1582871088902" />
+    <state x="381" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582879567546">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="381" y="89" width="672" height="678" key="search.everywhere.popup/70.27.1296.741@70.27.1296.741" timestamp="1582879567546" />
   </component>
 </project>
