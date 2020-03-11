@@ -1,8 +1,6 @@
 package com.company;
 
-import javax.management.MBeanAttributeInfo;
-
-public class Help {
+public class Help0 {
     public static void main(String[] args)
         throws java.io.IOException {
 
