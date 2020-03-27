@@ -1,11 +1,11 @@
 package com.company;
 
 class Quicksort {
-    static void qsort (char items[]) {
+    static void qsort (char[] items) {
         qs(items, 0, items.length-1);
     }
 
-    private static void qs(char items[], int left, int right)
+    private static void qs(char[] items, int left, int right)
     {
         int i, j;
         char x, y;
@@ -42,12 +42,13 @@ class Quicksort {
 
 class QSDemo {
     public static void main(String[] args) {
-        char a[] = { 'd', 'x', 'a', 'r', 'p', 'j', 'i'};
+        char[] a = { 'd', 'x', 'a', 'r', 'p', 'j', 'i' };
         int i;
 
         System.out.println("Source array: ");
-        for (i=0; i < a.length; i++)
+        for (i=0; i < a.length; i++) {
             System.out.println(a[i]);
+        }
 
         System.out.println();
 
