@@ -1,9 +1,9 @@
 package bookpack;
 
 public class Book {
-    private String title;
-    private String author;
-    private int pubDate;
+    public String title;
+    public String author;
+    public int pubDate;
 
     public Book(String t, String a, int d) {
         title = t;
