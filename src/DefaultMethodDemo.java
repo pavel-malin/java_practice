@@ -11,6 +11,10 @@ class MyIFImp implements MyIf {
     public int getUserID() {
         return 100;
     }
+
+    public int getAdminID() {
+        return 42;
+    }
 }
 
 public class DefaultMethodDemo {
