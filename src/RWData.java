@@ -17,6 +17,7 @@ public class RWData {
             System.out.println("Record: " + 12.2 * 7.4);
             dataOut.writeDouble(12.2 * 7.4);
         }
+
         catch (IOException exc) {
             System.out.println("Error writing");
             return;
