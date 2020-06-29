@@ -3,7 +3,7 @@ import java.io.*;
 public class ShowFile {
     public static void main(String[] args) {
         int i;
-        FileInputStream fin;
+        FileInputStream fin = null;
 
         if(args.length != 1) {
             System.out.println("Using: ShowFile file_name");
@@ -29,7 +29,8 @@ public class ShowFile {
             System.out.println("Error reading file");
         } finally {
             try {
-                fin.close();
+                if(fin != null)
+                    fin.close();
             }
             catch(IOException exc) {
                 System.out.println("Error closing file");
