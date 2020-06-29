@@ -27,12 +27,13 @@ public class ShowFile {
         }
         catch(IOException exc) {
             System.out.println("Error reading file");
-        }
-        try {
-            fin.close();
-        }
-        catch(IOException exc) {
-            System.out.println("Error closing file");
+        } finally {
+            try {
+                fin.close();
+            }
+            catch(IOException exc) {
+                System.out.println("Error closing file");
+            }
         }
     }
 }
