@@ -9,7 +9,7 @@ public class CopyFile {
     public static void main(String[] args) throws IOException {
         int i;
         FileInputStream fin = null;
-        FileInputStream fout = null;
+        FileOutputStream fout = null;
         
         if(args.length != 2) {
             System.out.println("Using: CopeFile - source and title");
@@ -17,7 +17,7 @@ public class CopyFile {
         }
         try {
             fin = new FileInputStream(args[0]);
-            fout = new FileInputStream(args[1]);
+            fout = new FileOutputStream(args[1]);
             
             do {
                 i = fin.read();
