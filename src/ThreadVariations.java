@@ -3,6 +3,7 @@ class MyThreads implements Runnable {
     MyThreads(String name) {
         thrd = new Thread(this, name);
     }
+
 /*
  This error
     public static MyThreads createAndStart(String name) {
@@ -11,6 +12,7 @@ class MyThreads implements Runnable {
         return myThrd;
     }
 */
+
     public void run() {
         System.out.println(thrd.getName() + " - run.");
         try {
