@@ -1,11 +1,11 @@
 enum Transport {
-    CAR, TRUCK, AIRLANE, TRAIN, BOAT
+    CAR, TRUCK, AIRPLANE, TRAIN, BOAT
 }
 
 public class EnumDemo {
     public static void main(String[] args) {
         Transport tp;
-        tp = Transport.AIRLANE;
+        tp = Transport.AIRPLANE;
 
         System.out.println("Value tp: " + tp);
         System.out.println();
@@ -22,7 +22,7 @@ public class EnumDemo {
             case TRUCK:
                 System.out.println("The truck carries cargo");
                 break;
-            case AIRLANE:
+            case AIRPLANE:
                 System.out.println("The plane is flying");
                 break;
             case TRAIN:
