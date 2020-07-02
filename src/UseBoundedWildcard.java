@@ -43,8 +43,8 @@ public class UseBoundedWildcard {
         Gen<C> w3 = new Gen<C>(c);
         Gen<D> w4 = new Gen<D>(d);
 
-        test(w);
-        test(w2);
-        test(w3);
+        //test(w);
+        //test(w2);
+        //test(w3);
     }
 }
